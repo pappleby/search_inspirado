@@ -11,8 +11,8 @@ blog posts containing a search term
 # http://zachbeauvais.com/?s=search_term&submit=Search
 
 
-term = "pedantry"
-site = "http://www.zachbeauvais.com/"
+term = "Individual"
+site = "https://magnetinspirado.wordpress.com"
 
 # Passing paramaters to the site uri using "payload" dict:
 
