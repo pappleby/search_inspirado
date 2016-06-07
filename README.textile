@@ -1,0 +1,8 @@
+You can use this scraper to search the blog of Zach Beauvais for posts containing the word _pedantry_.
+
+The good part about this, aside from finding Zach's pedantic ramblings, is that if you change the variables:
+
+* term
+* site
+
+to new search word, and the site to another wordpress blog, you'll get the results of those instead.
